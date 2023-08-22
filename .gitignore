@@ -3,6 +3,23 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Models
+*.pkl
+
+# Dataset
+tutorial
+frame
+CartPole/expert_dataset
+
+# Videos
+*.mp4
+*.avi
+
+.DS_Store
+
+# Weight & Biases logs
+wandb
+
 # C extensions
 *.so
 
